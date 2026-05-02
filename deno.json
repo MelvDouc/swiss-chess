@@ -1,0 +1,15 @@
+{
+  "name": "@melvdouc/swiss_chess",
+  "version": "0.1.0",
+  "tasks": {},
+  "imports": {
+    "$/": "./src/"
+  },
+  "exports": "./src/mod.ts",
+  "publish": {
+    "exclude": [
+      "**/.vscode",
+      "**/.gitignore"
+    ]
+  }
+}

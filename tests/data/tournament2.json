@@ -1,0 +1,1534 @@
+{
+  "players": [
+    {
+      "id": "ALEXANDRE Fabrice",
+      "rating": 1400
+    },
+    {
+      "id": "ALIZADA Irada",
+      "rating": 999
+    },
+    {
+      "id": "ALIZADA Matin",
+      "rating": 1411
+    },
+    {
+      "id": "ALLONGE Eric",
+      "rating": 1586
+    },
+    {
+      "id": "ANISSIMOVA Mariya",
+      "rating": 1937
+    },
+    {
+      "id": "ARMENI Julien",
+      "rating": 1523
+    },
+    {
+      "id": "ARNOULD Laurent",
+      "rating": 1423
+    },
+    {
+      "id": "ARNOULD Loic",
+      "rating": 1404
+    },
+    {
+      "id": "BAYARSAIKHAN Melodie",
+      "rating": 1586
+    },
+    {
+      "id": "BECQ Alain",
+      "rating": 1925
+    },
+    {
+      "id": "BERNANNOU Youssef",
+      "rating": 1690
+    },
+    {
+      "id": "BERRARD Pierre-Yves",
+      "rating": 1803
+    },
+    {
+      "id": "BIANCONI Fabrice",
+      "rating": 1445
+    },
+    {
+      "id": "BOHOMAZ Andrii Pavlovitch",
+      "rating": 1913
+    },
+    {
+      "id": "BOOJHARUT Gabriel",
+      "rating": 1498
+    },
+    {
+      "id": "BOOJHARUT Jack",
+      "rating": 1199
+    },
+    {
+      "id": "BOUKERKEB Ziyad",
+      "rating": 1474
+    },
+    {
+      "id": "BOUR Michael",
+      "rating": 1622
+    },
+    {
+      "id": "CAN Adil Yavuz",
+      "rating": 1499
+    },
+    {
+      "id": "CERASI Umberto",
+      "rating": 1986
+    },
+    {
+      "id": "CLOSSET Alexandre",
+      "rating": 1602
+    },
+    {
+      "id": "DAVID Dorian-Ciprian",
+      "rating": 1811
+    },
+    {
+      "id": "DUONG Nhat",
+      "rating": 1199
+    },
+    {
+      "id": "FELLER Sebastien",
+      "rating": 2622
+    },
+    {
+      "id": "FRAU Maxime",
+      "rating": 1581
+    },
+    {
+      "id": "GABRIEL Julien",
+      "rating": 1579
+    },
+    {
+      "id": "GARCIA Gabriel",
+      "rating": 1199
+    },
+    {
+      "id": "GIRARD Guy",
+      "rating": 1519
+    },
+    {
+      "id": "GIRARD Remi",
+      "rating": 1707
+    },
+    {
+      "id": "HIRSCH Antoine",
+      "rating": 1600
+    },
+    {
+      "id": "HIRSCH Hugo",
+      "rating": 1780
+    },
+    {
+      "id": "HOFFMANN Roger",
+      "rating": 1953
+    },
+    {
+      "id": "HUBLAU Stephane",
+      "rating": 2055
+    },
+    {
+      "id": "JENDOUBI Malek",
+      "rating": 1603
+    },
+    {
+      "id": "KALMES Rene",
+      "rating": 1945
+    },
+    {
+      "id": "LE VAN Tan",
+      "rating": 1629
+    },
+    {
+      "id": "LECLERC Sandra",
+      "rating": 1120
+    },
+    {
+      "id": "LEMAITRE Christophe",
+      "rating": 1553
+    },
+    {
+      "id": "LETELLIER Romain",
+      "rating": 1501
+    },
+    {
+      "id": "LOMBARD Christophe",
+      "rating": 1798
+    },
+    {
+      "id": "LUX Hugo De Melo",
+      "rating": 2183
+    },
+    {
+      "id": "MEYER Gaetan",
+      "rating": 1693
+    },
+    {
+      "id": "MILANE Sylvio",
+      "rating": 1525
+    },
+    {
+      "id": "MOLINARI Pierre",
+      "rating": 1579
+    },
+    {
+      "id": "MULLER Etienne",
+      "rating": 2213
+    },
+    {
+      "id": "MURALI SUBRAMANIAN",
+      "rating": 1468
+    },
+    {
+      "id": "MURZYNSKI Roman Gabriel",
+      "rating": 1727
+    },
+    {
+      "id": "MUSTO Joseph",
+      "rating": 1199
+    },
+    {
+      "id": "NOEL Eliott",
+      "rating": 1199
+    },
+    {
+      "id": "PIERRON Maxime",
+      "rating": 1452
+    },
+    {
+      "id": "PIERRON BEJAN Elisa",
+      "rating": 1541
+    },
+    {
+      "id": "PIERRON BEJAN Nicephore",
+      "rating": 1918
+    },
+    {
+      "id": "QUEIROS GONCALVES Daniel",
+      "rating": 1413
+    },
+    {
+      "id": "RASHTIANI Rayan",
+      "rating": 1945
+    },
+    {
+      "id": "REINHART Jean-Emile",
+      "rating": 1513
+    },
+    {
+      "id": "ROCH Florian",
+      "rating": 1947
+    },
+    {
+      "id": "ROSSILLE Theo",
+      "rating": 1663
+    },
+    {
+      "id": "SALET Julien",
+      "rating": 1488
+    },
+    {
+      "id": "SAMUEL Martin",
+      "rating": 1705
+    },
+    {
+      "id": "SATYANARAYAN Shraddha",
+      "rating": 1662
+    },
+    {
+      "id": "SAYSOUK Christophe",
+      "rating": 1797
+    },
+    {
+      "id": "SERENKO Marc",
+      "rating": 1657
+    },
+    {
+      "id": "SHALU SANTHA KUMAR",
+      "rating": 1535
+    },
+    {
+      "id": "SUMETS Andrey",
+      "rating": 2515
+    },
+    {
+      "id": "TALARMIN David",
+      "rating": 1632
+    },
+    {
+      "id": "TALARMIN Louis",
+      "rating": 1399
+    },
+    {
+      "id": "URIET-BIA Jarod",
+      "rating": 1620
+    },
+    {
+      "id": "WEITER Marie Christine",
+      "rating": 1199
+    },
+    {
+      "id": "ZIENKIEWICZ Alexandre",
+      "rating": 1963
+    },
+    {
+      "id": "ZIENKIEWICZ Geoffroy",
+      "rating": 2028
+    },
+    {
+      "id": "ZIENKIEWICZ Jan",
+      "rating": 2406
+    }
+  ],
+  "rounds": [
+    [
+      {
+        "whiteId": "FELLER Sebastien",
+        "blackId": "CLOSSET Alexandre",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "HIRSCH Antoine",
+        "blackId": "SUMETS Andrey",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ZIENKIEWICZ Jan",
+        "blackId": "ALLONGE Eric",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "BAYARSAIKHAN Melodie",
+        "blackId": "MULLER Etienne",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "LUX Hugo De Melo",
+        "blackId": "FRAU Maxime",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "GABRIEL Julien",
+        "blackId": "HUBLAU Stephane",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ZIENKIEWICZ Geoffroy",
+        "blackId": "MOLINARI Pierre",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "LEMAITRE Christophe",
+        "blackId": "CERASI Umberto",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ZIENKIEWICZ Alexandre",
+        "blackId": "PIERRON BEJAN Elisa",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "SHALU SANTHA KUMAR",
+        "blackId": "HOFFMANN Roger",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ROCH Florian",
+        "blackId": "MILANE Sylvio",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ARMENI Julien",
+        "blackId": "KALMES Rene",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "RASHTIANI Rayan",
+        "blackId": "GIRARD Guy",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "REINHART Jean-Emile",
+        "blackId": "ANISSIMOVA Mariya",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BECQ Alain",
+        "blackId": "LETELLIER Romain",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "CAN Adil Yavuz",
+        "blackId": "PIERRON BEJAN Nicephore",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BOHOMAZ Andrii Pavlovitch",
+        "blackId": "BOOJHARUT Gabriel",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "SALET Julien",
+        "blackId": "DAVID Dorian-Ciprian",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BERRARD Pierre-Yves",
+        "blackId": "BOUKERKEB Ziyad",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "MURALI SUBRAMANIAN",
+        "blackId": "LOMBARD Christophe",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "SAYSOUK Christophe",
+        "blackId": "PIERRON Maxime",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "BIANCONI Fabrice",
+        "blackId": "HIRSCH Hugo",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "MURZYNSKI Roman Gabriel",
+        "blackId": "ARNOULD Laurent",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "QUEIROS GONCALVES Daniel",
+        "blackId": "GIRARD Remi",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "SAMUEL Martin",
+        "blackId": "ALIZADA Matin",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ARNOULD Loic",
+        "blackId": "MEYER Gaetan",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BERNANNOU Youssef",
+        "blackId": "ALEXANDRE Fabrice",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "TALARMIN Louis",
+        "blackId": "ROSSILLE Theo",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "SATYANARAYAN Shraddha",
+        "blackId": "BOOJHARUT Jack",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "DUONG Nhat",
+        "blackId": "SERENKO Marc",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "TALARMIN David",
+        "blackId": "GARCIA Gabriel",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "MUSTO Joseph",
+        "blackId": "LE VAN Tan",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "BOUR Michael",
+        "blackId": "NOEL Eliott",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "WEITER Marie Christine",
+        "blackId": "URIET-BIA Jarod",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "JENDOUBI Malek",
+        "blackId": "LECLERC Sandra",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ALIZADA Irada",
+        "blackId": null,
+        "result": "1-0"
+      }
+    ],
+    [
+      {
+        "whiteId": "SUMETS Andrey",
+        "blackId": "SAYSOUK Christophe",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "LOMBARD Christophe",
+        "blackId": "ZIENKIEWICZ Jan",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "MULLER Etienne",
+        "blackId": "MURZYNSKI Roman Gabriel",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "HIRSCH Hugo",
+        "blackId": "LUX Hugo De Melo",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "HUBLAU Stephane",
+        "blackId": "SAMUEL Martin",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "GIRARD Remi",
+        "blackId": "ZIENKIEWICZ Geoffroy",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "CERASI Umberto",
+        "blackId": "BERNANNOU Youssef",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "MEYER Gaetan",
+        "blackId": "ZIENKIEWICZ Alexandre",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "HOFFMANN Roger",
+        "blackId": "SATYANARAYAN Shraddha",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ROSSILLE Theo",
+        "blackId": "ROCH Florian",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "KALMES Rene",
+        "blackId": "TALARMIN David",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "SERENKO Marc",
+        "blackId": "RASHTIANI Rayan",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ANISSIMOVA Mariya",
+        "blackId": "BOUR Michael",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "PIERRON BEJAN Nicephore",
+        "blackId": "JENDOUBI Malek",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "URIET-BIA Jarod",
+        "blackId": "BOHOMAZ Andrii Pavlovitch",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "DAVID Dorian-Ciprian",
+        "blackId": "MUSTO Joseph",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ALIZADA Irada",
+        "blackId": "BERRARD Pierre-Yves",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "LETELLIER Romain",
+        "blackId": "LE VAN Tan",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BOUKERKEB Ziyad",
+        "blackId": "BECQ Alain",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "CLOSSET Alexandre",
+        "blackId": "SALET Julien",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "PIERRON Maxime",
+        "blackId": "HIRSCH Antoine",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ALLONGE Eric",
+        "blackId": "MURALI SUBRAMANIAN",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ARNOULD Laurent",
+        "blackId": "BAYARSAIKHAN Melodie",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "FRAU Maxime",
+        "blackId": "BIANCONI Fabrice",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ALIZADA Matin",
+        "blackId": "GABRIEL Julien",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "MOLINARI Pierre",
+        "blackId": "QUEIROS GONCALVES Daniel",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ALEXANDRE Fabrice",
+        "blackId": "LEMAITRE Christophe",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "PIERRON BEJAN Elisa",
+        "blackId": "ARNOULD Loic",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "BOOJHARUT Jack",
+        "blackId": "SHALU SANTHA KUMAR",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "MILANE Sylvio",
+        "blackId": "TALARMIN Louis",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "GARCIA Gabriel",
+        "blackId": "ARMENI Julien",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "GIRARD Guy",
+        "blackId": "DUONG Nhat",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "NOEL Eliott",
+        "blackId": "REINHART Jean-Emile",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "LECLERC Sandra",
+        "blackId": "CAN Adil Yavuz",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BOOJHARUT Gabriel",
+        "blackId": "WEITER Marie Christine",
+        "result": "1-0"
+      }
+    ],
+    [
+      {
+        "whiteId": "ROCH Florian",
+        "blackId": "SUMETS Andrey",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ZIENKIEWICZ Jan",
+        "blackId": "HOFFMANN Roger",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "RASHTIANI Rayan",
+        "blackId": "MULLER Etienne",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "LUX Hugo De Melo",
+        "blackId": "KALMES Rene",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "BOHOMAZ Andrii Pavlovitch",
+        "blackId": "HUBLAU Stephane",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ZIENKIEWICZ Geoffroy",
+        "blackId": "ANISSIMOVA Mariya",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "BERRARD Pierre-Yves",
+        "blackId": "CERASI Umberto",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ZIENKIEWICZ Alexandre",
+        "blackId": "DAVID Dorian-Ciprian",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "BECQ Alain",
+        "blackId": "PIERRON BEJAN Nicephore",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "JENDOUBI Malek",
+        "blackId": "LOMBARD Christophe",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "SAYSOUK Christophe",
+        "blackId": "BAYARSAIKHAN Melodie",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "GABRIEL Julien",
+        "blackId": "HIRSCH Hugo",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "MURZYNSKI Roman Gabriel",
+        "blackId": "FRAU Maxime",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "LEMAITRE Christophe",
+        "blackId": "GIRARD Remi",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "SAMUEL Martin",
+        "blackId": "MOLINARI Pierre",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "SHALU SANTHA KUMAR",
+        "blackId": "MEYER Gaetan",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BERNANNOU Youssef",
+        "blackId": "PIERRON BEJAN Elisa",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ARMENI Julien",
+        "blackId": "ROSSILLE Theo",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "SATYANARAYAN Shraddha",
+        "blackId": "MILANE Sylvio",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "REINHART Jean-Emile",
+        "blackId": "SERENKO Marc",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "TALARMIN David",
+        "blackId": "GIRARD Guy",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "LE VAN Tan",
+        "blackId": "BOOJHARUT Gabriel",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "BOUR Michael",
+        "blackId": "LETELLIER Romain",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "CAN Adil Yavuz",
+        "blackId": "URIET-BIA Jarod",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "MURALI SUBRAMANIAN",
+        "blackId": "CLOSSET Alexandre",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "HIRSCH Antoine",
+        "blackId": "ALIZADA Irada",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "MUSTO Joseph",
+        "blackId": "ALLONGE Eric",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "SALET Julien",
+        "blackId": "ALEXANDRE Fabrice",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "TALARMIN Louis",
+        "blackId": "BOUKERKEB Ziyad",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BOOJHARUT Jack",
+        "blackId": "PIERRON Maxime",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BIANCONI Fabrice",
+        "blackId": "GARCIA Gabriel",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "DUONG Nhat",
+        "blackId": "ARNOULD Laurent",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "QUEIROS GONCALVES Daniel",
+        "blackId": "NOEL Eliott",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "WEITER Marie Christine",
+        "blackId": "ALIZADA Matin",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ARNOULD Loic",
+        "blackId": "LECLERC Sandra",
+        "result": "0-1"
+      }
+    ],
+    [
+      {
+        "whiteId": "SUMETS Andrey",
+        "blackId": "ZIENKIEWICZ Alexandre",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "HUBLAU Stephane",
+        "blackId": "ZIENKIEWICZ Jan",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "CERASI Umberto",
+        "blackId": "LUX Hugo De Melo",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ANISSIMOVA Mariya",
+        "blackId": "RASHTIANI Rayan",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "MULLER Etienne",
+        "blackId": "ZIENKIEWICZ Geoffroy",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "HOFFMANN Roger",
+        "blackId": "SAMUEL Martin",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "MEYER Gaetan",
+        "blackId": "ROCH Florian",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "KALMES Rene",
+        "blackId": "BERNANNOU Youssef",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ROSSILLE Theo",
+        "blackId": "BECQ Alain",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "SERENKO Marc",
+        "blackId": "BOHOMAZ Andrii Pavlovitch",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "DAVID Dorian-Ciprian",
+        "blackId": "TALARMIN David",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "LE VAN Tan",
+        "blackId": "BERRARD Pierre-Yves",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "LOMBARD Christophe",
+        "blackId": "BOUR Michael",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "MILANE Sylvio",
+        "blackId": "SAYSOUK Christophe",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "HIRSCH Hugo",
+        "blackId": "CAN Adil Yavuz",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ALIZADA Irada",
+        "blackId": "MURZYNSKI Roman Gabriel",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "GIRARD Remi",
+        "blackId": "MURALI SUBRAMANIAN",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "PIERRON BEJAN Nicephore",
+        "blackId": "SATYANARAYAN Shraddha",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "URIET-BIA Jarod",
+        "blackId": "JENDOUBI Malek",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "CLOSSET Alexandre",
+        "blackId": "REINHART Jean-Emile",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "LETELLIER Romain",
+        "blackId": "HIRSCH Antoine",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ALLONGE Eric",
+        "blackId": "BOOJHARUT Gabriel",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BAYARSAIKHAN Melodie",
+        "blackId": "SALET Julien",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "FRAU Maxime",
+        "blackId": "QUEIROS GONCALVES Daniel",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "BOUKERKEB Ziyad",
+        "blackId": "GABRIEL Julien",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "MOLINARI Pierre",
+        "blackId": "BIANCONI Fabrice",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "PIERRON Maxime",
+        "blackId": "LEMAITRE Christophe",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "PIERRON BEJAN Elisa",
+        "blackId": "DUONG Nhat",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ALIZADA Matin",
+        "blackId": "SHALU SANTHA KUMAR",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "LECLERC Sandra",
+        "blackId": "ARMENI Julien",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "GIRARD Guy",
+        "blackId": "MUSTO Joseph",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ARNOULD Laurent",
+        "blackId": "BOOJHARUT Jack",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "GARCIA Gabriel",
+        "blackId": "ARNOULD Loic",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "ALEXANDRE Fabrice",
+        "blackId": "WEITER Marie Christine",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "NOEL Eliott",
+        "blackId": "TALARMIN Louis",
+        "result": "1-0"
+      }
+    ],
+    [
+      {
+        "whiteId": "ZIENKIEWICZ Jan",
+        "blackId": "SUMETS Andrey",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "LUX Hugo De Melo",
+        "blackId": "ANISSIMOVA Mariya",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "BECQ Alain",
+        "blackId": "MULLER Etienne",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BERRARD Pierre-Yves",
+        "blackId": "HUBLAU Stephane",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BOHOMAZ Andrii Pavlovitch",
+        "blackId": "CERASI Umberto",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ZIENKIEWICZ Alexandre",
+        "blackId": "LOMBARD Christophe",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "SAYSOUK Christophe",
+        "blackId": "HOFFMANN Roger",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "ROCH Florian",
+        "blackId": "DAVID Dorian-Ciprian",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "MURZYNSKI Roman Gabriel",
+        "blackId": "KALMES Rene",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "RASHTIANI Rayan",
+        "blackId": "HIRSCH Hugo",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "MURALI SUBRAMANIAN",
+        "blackId": "PIERRON BEJAN Nicephore",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ZIENKIEWICZ Geoffroy",
+        "blackId": "JENDOUBI Malek",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "GABRIEL Julien",
+        "blackId": "GIRARD Remi",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "SAMUEL Martin",
+        "blackId": "LEMAITRE Christophe",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ARMENI Julien",
+        "blackId": "MEYER Gaetan",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BERNANNOU Youssef",
+        "blackId": "MOLINARI Pierre",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "SHALU SANTHA KUMAR",
+        "blackId": "ROSSILLE Theo",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "GIRARD Guy",
+        "blackId": "SERENKO Marc",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "TALARMIN David",
+        "blackId": "PIERRON BEJAN Elisa",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "CAN Adil Yavuz",
+        "blackId": "LE VAN Tan",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BOUR Michael",
+        "blackId": "ALIZADA Irada",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "BOOJHARUT Gabriel",
+        "blackId": "CLOSSET Alexandre",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "HIRSCH Antoine",
+        "blackId": "MILANE Sylvio",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "SALET Julien",
+        "blackId": "FRAU Maxime",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "SATYANARAYAN Shraddha",
+        "blackId": "ARNOULD Laurent",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "BIANCONI Fabrice",
+        "blackId": "URIET-BIA Jarod",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "QUEIROS GONCALVES Daniel",
+        "blackId": "ALLONGE Eric",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "BAYARSAIKHAN Melodie",
+        "blackId": "ALIZADA Matin",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "REINHART Jean-Emile",
+        "blackId": "ALEXANDRE Fabrice",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "DUONG Nhat",
+        "blackId": "LETELLIER Romain",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "NOEL Eliott",
+        "blackId": "BOUKERKEB Ziyad",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "LECLERC Sandra",
+        "blackId": "PIERRON Maxime",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ARNOULD Loic",
+        "blackId": "TALARMIN Louis",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "BOOJHARUT Jack",
+        "blackId": "GARCIA Gabriel",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "WEITER Marie Christine",
+        "blackId": null,
+        "result": "1-0"
+      }
+    ],
+    [
+      {
+        "whiteId": "SUMETS Andrey",
+        "blackId": "LUX Hugo De Melo",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ANISSIMOVA Mariya",
+        "blackId": "ZIENKIEWICZ Jan",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "MULLER Etienne",
+        "blackId": "ZIENKIEWICZ Alexandre",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "HUBLAU Stephane",
+        "blackId": "ROCH Florian",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "CERASI Umberto",
+        "blackId": "HIRSCH Hugo",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "PIERRON BEJAN Nicephore",
+        "blackId": "ZIENKIEWICZ Geoffroy",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "HOFFMANN Roger",
+        "blackId": "MURZYNSKI Roman Gabriel",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "KALMES Rene",
+        "blackId": "SAYSOUK Christophe",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ROSSILLE Theo",
+        "blackId": "RASHTIANI Rayan",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "SERENKO Marc",
+        "blackId": "BECQ Alain",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "LE VAN Tan",
+        "blackId": "BOHOMAZ Andrii Pavlovitch",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "DAVID Dorian-Ciprian",
+        "blackId": "BOUR Michael",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "MOLINARI Pierre",
+        "blackId": "BERRARD Pierre-Yves",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "LOMBARD Christophe",
+        "blackId": "PIERRON BEJAN Elisa",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "GIRARD Remi",
+        "blackId": "SALET Julien",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "MILANE Sylvio",
+        "blackId": "SAMUEL Martin",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "MEYER Gaetan",
+        "blackId": "MURALI SUBRAMANIAN",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "JENDOUBI Malek",
+        "blackId": "CLOSSET Alexandre",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "BOOJHARUT Gabriel",
+        "blackId": "BERNANNOU Youssef",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "GIRARD Guy",
+        "blackId": "SATYANARAYAN Shraddha",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "LETELLIER Romain",
+        "blackId": "TALARMIN David",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "URIET-BIA Jarod",
+        "blackId": "ARMENI Julien",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ALIZADA Matin",
+        "blackId": "HIRSCH Antoine",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "FRAU Maxime",
+        "blackId": "REINHART Jean-Emile",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "PIERRON Maxime",
+        "blackId": "GABRIEL Julien",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "LEMAITRE Christophe",
+        "blackId": "CAN Adil Yavuz",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ALIZADA Irada",
+        "blackId": "SHALU SANTHA KUMAR",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ALLONGE Eric",
+        "blackId": "NOEL Eliott",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BOUKERKEB Ziyad",
+        "blackId": "ARNOULD Loic",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "GARCIA Gabriel",
+        "blackId": "QUEIROS GONCALVES Daniel",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ALEXANDRE Fabrice",
+        "blackId": "BAYARSAIKHAN Melodie",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "WEITER Marie Christine",
+        "blackId": "BIANCONI Fabrice",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ARNOULD Laurent",
+        "blackId": "LECLERC Sandra",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "TALARMIN Louis",
+        "blackId": "DUONG Nhat",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BOOJHARUT Jack",
+        "blackId": null,
+        "result": "1-0"
+      }
+    ],
+    [
+      {
+        "whiteId": "MULLER Etienne",
+        "blackId": "SUMETS Andrey",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ZIENKIEWICZ Jan",
+        "blackId": "CERASI Umberto",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "HOFFMANN Roger",
+        "blackId": "HUBLAU Stephane",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "LUX Hugo De Melo",
+        "blackId": "PIERRON BEJAN Nicephore",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ZIENKIEWICZ Alexandre",
+        "blackId": "KALMES Rene",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ROCH Florian",
+        "blackId": "BERRARD Pierre-Yves",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "RASHTIANI Rayan",
+        "blackId": "LOMBARD Christophe",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "HIRSCH Hugo",
+        "blackId": "ANISSIMOVA Mariya",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BOHOMAZ Andrii Pavlovitch",
+        "blackId": "GIRARD Remi",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "MURALI SUBRAMANIAN",
+        "blackId": "DAVID Dorian-Ciprian",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "SAMUEL Martin",
+        "blackId": "ZIENKIEWICZ Geoffroy",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "BECQ Alain",
+        "blackId": "JENDOUBI Malek",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "SAYSOUK Christophe",
+        "blackId": "SERENKO Marc",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "MURZYNSKI Roman Gabriel",
+        "blackId": "MEYER Gaetan",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BERNANNOU Youssef",
+        "blackId": "GABRIEL Julien",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "PIERRON BEJAN Elisa",
+        "blackId": "ROSSILLE Theo",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "SATYANARAYAN Shraddha",
+        "blackId": "MOLINARI Pierre",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "TALARMIN David",
+        "blackId": "SHALU SANTHA KUMAR",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "ARMENI Julien",
+        "blackId": "LE VAN Tan",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "BOUR Michael",
+        "blackId": "MILANE Sylvio",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "CAN Adil Yavuz",
+        "blackId": "FRAU Maxime",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "SALET Julien",
+        "blackId": "HIRSCH Antoine",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "CLOSSET Alexandre",
+        "blackId": "ALIZADA Matin",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "NOEL Eliott",
+        "blackId": "BOOJHARUT Gabriel",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "QUEIROS GONCALVES Daniel",
+        "blackId": "BOUKERKEB Ziyad",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "PIERRON Maxime",
+        "blackId": "URIET-BIA Jarod",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "DUONG Nhat",
+        "blackId": "LEMAITRE Christophe",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ARNOULD Laurent",
+        "blackId": "GIRARD Guy",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "REINHART Jean-Emile",
+        "blackId": "WEITER Marie Christine",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "LETELLIER Romain",
+        "blackId": "ALIZADA Irada",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "ARNOULD Loic",
+        "blackId": "ALLONGE Eric",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "BAYARSAIKHAN Melodie",
+        "blackId": "GARCIA Gabriel",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "BIANCONI Fabrice",
+        "blackId": "ALEXANDRE Fabrice",
+        "result": "1/2-1/2"
+      },
+      {
+        "whiteId": "LECLERC Sandra",
+        "blackId": "BOOJHARUT Jack",
+        "result": "0-1"
+      },
+      {
+        "whiteId": "TALARMIN Louis",
+        "blackId": null,
+        "result": "1-0"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "players": [
+    {
+      "id": "a",
+      "rating": 2500
+    },
+    {
+      "id": "b",
+      "rating": 2400
+    },
+    {
+      "id": "c",
+      "rating": 2300
+    },
+    {
+      "id": "d",
+      "rating": 2200
+    }
+  ],
+  "rounds": [
+    [
+      {
+        "whiteId": "a",
+        "blackId": "c",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "d",
+        "blackId": "b",
+        "result": "1/2-1/2"
+      }
+    ],
+    [
+      {
+        "whiteId": "b",
+        "blackId": "a",
+        "result": "1-0"
+      },
+      {
+        "whiteId": "d",
+        "blackId": "c",
+        "result": "1/2-1/2"
+      }
+    ]
+  ]
+}

@@ -29,4 +29,7 @@ export default class Player {
   ) { }
 }
 
+/**
+ * A **unique** player identifier.
+ */
 export type PlayerId = string | symbol;

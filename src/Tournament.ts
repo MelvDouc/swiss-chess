@@ -9,8 +9,7 @@ import { arrayToRecord } from "$/utils.ts";
 
 export default class Tournament {
   /**
-   * @param nbPlayers Number of players.
-   * @returns How many rounds a tournament should have **at most**.
+   * How many rounds a tournament should have **at most**.
    */
   public static idealNumberOfRounds(nbPlayers: number): number {
     return Math.ceil(Math.log2(nbPlayers));
@@ -30,6 +29,10 @@ export default class Tournament {
   private readonly rounds: Pairing[][] = [];
   private readonly pairingInfoRecord: Record<PlayerId, PairingInfo>;
 
+  /**
+   * @param players The players of this tournament. The array will be copied.
+   * @param nbRounds Total number of rounds.
+   */
   public constructor(players: Player[], nbRounds: number) {
     this.nbRounds = nbRounds;
     this.players = [...players];
@@ -126,6 +129,10 @@ export default class Tournament {
     return standings.map((standing, i) => standing.asPublic(rankingRec, i + 1));
   }
 
+  /**
+   * In the 1st round players are divided into a strong group and a weak group.
+   * Each player of the strong group plays the weak group player at the same position.
+   */
   private firstRoundPairings(): Pairing[] {
     const players = this.players
       .filter(({ active }) => active)

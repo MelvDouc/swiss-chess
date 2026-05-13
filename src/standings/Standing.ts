@@ -133,13 +133,40 @@ export default class Standing {
   }
 }
 
+/**
+ * Various info used to sort players.
+ */
 export type PublicStanding = {
+  /**
+   * The position of the player in the standings.
+   */
   rank: number;
+  /**
+   * The player this standing refers to.
+   */
   player: Player;
+  /**
+   * Total number of points.
+   */
   points: number;
+  /**
+   * Sum of opponents' points.
+   */
   Buchholz: number;
+  /**
+   * Sum of defeated opponents' points + half of drawn opponents' points.
+   */
   SonnebornBerger: number;
+  /**
+   * Cumulative number of points round after round.
+   */
   progressiveScore: number;
+  /**
+   * Number of won games.
+   */
   wins: number;
+  /**
+   * Details of games played.
+   */
   games: PublicStandingGame[];
 };

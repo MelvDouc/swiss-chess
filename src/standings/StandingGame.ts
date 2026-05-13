@@ -30,9 +30,24 @@ export default class Game {
   }
 }
 
+/**
+ * Game info from one of the players' perspective.
+ */
 export type PublicStandingGame = {
+  /**
+   * Id of opponent.
+   */
   opponentId: PlayerId;
+  /**
+   * Color played by this player.
+   */
   color: RealColor;
+  /**
+   * 1 for win, 0 for loss, 0.5 for draw.
+   */
   score: Score;
+  /**
+   * Table notation, e.g. +15B: won with black against 15th player.
+   */
   notation: string;
 };

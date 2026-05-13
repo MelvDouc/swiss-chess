@@ -1,5 +1,8 @@
 import ErrorKind from "$/errors/ErrorKind.ts";
 
+/**
+ * A custom error class.
+ */
 export default class TournamentError extends Error {
   public static noByeFound(): TournamentError {
     return new this(ErrorKind.NoByeFound);

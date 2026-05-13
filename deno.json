@@ -1,6 +1,7 @@
 {
   "name": "@melvdouc/swiss-chess",
   "version": "0.1.0",
+  "license": "MIT",
   "tasks": {},
   "imports": {
     "$/": "./src/",

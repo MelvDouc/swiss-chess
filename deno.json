@@ -1,6 +1,6 @@
 {
   "name": "@melvdouc/swiss-chess",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "tasks": {},
   "imports": {
@@ -13,7 +13,8 @@
   "publish": {
     "include": [
       "./src",
-      "deno.json"
+      "deno.json",
+      "README.md"
     ]
   }
 }

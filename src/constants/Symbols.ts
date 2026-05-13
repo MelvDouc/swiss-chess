@@ -1,4 +1,4 @@
-const getPairingInfoSymbol = Symbol();
+const getPairingInfoSymbol: unique symbol = Symbol();
 
 const Symbols = {
   getPairingInfo: getPairingInfoSymbol

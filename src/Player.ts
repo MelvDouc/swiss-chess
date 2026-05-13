@@ -8,7 +8,7 @@ export default class Player {
    * A dummy player added when a tournament has an odd number of active players.
    * It is handled internally so do not include it in your player list.
    */
-  public static readonly NULL_PLAYER = new this(Symbol(), 0);
+  public static readonly NULL_PLAYER: Player = new this(Symbol(), 0);
 
   public constructor(
     /**

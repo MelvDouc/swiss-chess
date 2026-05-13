@@ -2,6 +2,10 @@
 
 Manage Swiss chess tournaments.
 
+## Installation
+
+Install from JSR: `npx jsr add @melvdouc/swiss-chess`.
+
 ## Player
 
 Extend the `Player` class to add extra info.
@@ -39,6 +43,11 @@ const tournament = new Tournament(players, 2);
 const firstRoundPairings = tournament.generatePairings();
 firstRoundPairings[0].result = GameResult.WhiteWin;
 firstRoundPairings[1].result = GameResult.Draw;
+```
+
+⚠️ Pairings are saved manually at each round so they can be modified before if needed.
+
+```typescript
 tournament.savePairings(firstRoundPairings);
 ```
 
